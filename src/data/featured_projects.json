@@ -1,0 +1,148 @@
+{
+  "featured_projects": [
+    {
+      "name": "Capillary",
+      "link": "https://www.capillarytech.com/blog/ecommerce-in-malaysia-growth",
+      "description": "Factors Spurring E Commerce Growth in Malaysia. At 89%, Malaysia has one of the highest internet penetration rates in Southeast Asia.",
+      "colour": "linear-gradient(to top, rgb(0, 122, 65),rgb(37, 207, 108))",
+      "languages": [
+        {
+          "name": "Angular",
+          "color": "#dd1b16"
+        },
+        {
+          "name": "Jquery",
+          "color": "#0868AC"
+        }
+      ],
+      "type": "web"
+    },
+    {
+      "name": "Wix",
+      "link": "https://www.wix.com/lp-en/ecom?utm_source=google&utm_medium=cpc&utm_campaign=21150679809^169148998508^search%20-%20en&experiment_id=online%20selling%20sites^p^695681477699^&gad_source=1&gclid=Cj0KCQjwsaqzBhDdARIsAK2gqncAvYfOCyJr8cklPlXZrQjQx79ybef_8io0S5XZ0guREMr2JuJO0hoaArQrEALw_wcB",
+      "description": "Wix is the E-commerce site for customers selling online available using their general devices such as laptop or tablet, smart phone in Malaysia. ",
+      "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
+      "languages": [
+        {
+          "name": "React.js",
+          "color": "#61DBFB"
+        },
+        {
+          "name": "Redux",
+          "color": "#764abc"
+        }
+      ],
+      "type": "web"
+    },
+    {
+      "name": "UNIFI",
+      "link": "https://biz.unifi.com.my/business/products/unifi-e-commerce-hub?utm_source=google&utm_medium=cpc&utm_campaign=unifibusiness_competitor-generic-sem_bottom_q4_2023&utm_term=ecomm&gad_source=1&gclid=Cj0KCQjwsaqzBhDdARIsAK2gqndDTX07x-Hvxzxel3I482V7vBoifsepMDJJDto14nyQHsFd_M6fnOYaAgEUEALw_wcB",
+      "description": "Simplify the management of your online & offline retail business with Unifi eCommerce Hub. Beginner-friendly and intuitive website builder with a payment gateway partner.",
+      "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
+      "languages": [
+        {
+          "name": "Vue",
+          "color": "#61DBFB"
+        }
+      ],
+      "type": "web"
+    },
+    {
+      "name": "Alison",
+      "link": "https://alison.com/",
+      "description": "Alison is designed and built to meet the needs of your a lot of skills in every field. you can easily learn everything you want in this site. this is located in USA",
+      "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
+      "languages": [
+        {
+          "name": "React Native",
+          "color": "#61DBFB"
+        },
+        {
+          "name": "Redux",
+          "color": "#764abc"
+        }
+      ],
+      "type": "mobile"
+    },
+    {
+      "name": "Bloomberg Philanthropies",
+      "link": "https://www.bloomberg.org/education/?gad_source=1&gclid=Cj0KCQjwsaqzBhDdARIsAK2gqndi0J3rxeZYsJlzyVeRFLbLJlMgxoUNZPGe8lJxUtEOpttDi_2IQSMaAuysEALw_wcB",
+      "description": "College Point Provides Virtual College Advising To Lower-Income, High-Achieving Students. you can easily learn everything you want in this site. this is located in USA",
+      "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
+      "languages": [
+        {
+          "name": "Vue",
+          "color": "#61DBFB"
+        },
+        {
+          "name": "Node.js",
+          "color": "#764abc"
+        }
+      ],
+      "type": "web"
+    },
+    {
+      "name": "Learning Pool",
+      "link": "https://resources.learningpool.com/best-cloud-lms-learning-platform-us?utm_source=GOOGLE&utm_medium=PPC&utm_campaign=GGL-US-REMARKETING&utm_content=WEBSITE&utm_term=online%20learning&utm_term=online%20learning&utm_campaign=GGL-US-STANDARD-REMARKETING&utm_source=adwords&utm_medium=ppc&hsa_acc=7322171817&hsa_cam=21096686095&hsa_grp=162818617147&hsa_ad=693304380418&hsa_src=g&hsa_tgt=kwd-10235341&hsa_kw=online%20learning&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwsaqzBhDdARIsAK2gqnehx9QiOIQzNRhAB6QKAitZ2isniSJaJXGsOo9IwwXJfSMWEi2t-joaAlkpEALw_wcB",
+      "description": "30 Minutes Is All We Need. Optimise Employee Performance With Data‑Driven Workplace Learning Technologies. you can easily learn everything you want in this site. this is located in USA",
+      "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
+      "languages": [
+        {
+          "name": "Next JS",
+          "color": "#61DBFB"
+        },
+        {
+          "name": "Node.js",
+          "color": "#764abc"
+        },
+        {
+          "name": "MongoDB",
+          "color": "#498AFF"
+        }
+      ],
+      "type": "web"
+    },
+    {
+      "name": "Bitcoinke",
+      "link": "https://bitcoinke.io/tag/nft-marketplace/",
+      "description": "LG Electronics Wants to Introduce a TV that Trades NFTs · You Will Soon Be Able to Mint and Sell NFTs on Instagram. You Will Soon Become NFT Leader.",
+      "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
+      "languages": [
+        {
+          "name": "React Native",
+          "color": "#61DBFB"
+        },
+        {
+          "name": "Redux",
+          "color": "#764abc"
+        },
+        {
+          "name": "Hardhat",
+          "color": "#764abc"
+        },
+        {
+          "name": "Web3.js",
+          "color": "#764abc"
+        }
+      ],
+      "type": "mobile"
+    },
+    {
+      "name": "Rarible",
+      "link": "https://rarible.com/",
+      "description": "Discover, sell and buy NFTs on Rarible! Our aggregated NFT marketplace for Ethereum NFTs and Polygon NFTs powers brands, collections and creator.",
+      "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
+      "languages": [
+        {
+          "name": "Next JS",
+          "color": "#61DBFB"
+        },
+        {
+          "name": "Truffle",
+          "color": "#764abc"
+        }
+      ],
+      "type": "web"
+    }
+  ]
+}
