@@ -1,0 +1,116 @@
+{
+  "skills": [
+    {
+      "skillName": "React Native",
+      "class": "devicon-react-original"
+    },
+    {
+      "skillName": "Vuejs",
+      "class": "devicon-vuejs-plain"
+    },
+    {
+      "skillName": "Angularjs",
+      "class": "devicon-angularjs-plain-wordmark"
+    },
+    {
+      "skillName": "React.js",
+      "class": "devicon-react-original"
+    },
+    {
+      "skillName": "Next.JS",
+      "class": "devicon-nextjs-plain"
+    },
+    {
+      "skillName": "Redux",
+      "class": "devicon-redux-original"
+    },
+    {
+      "skillName": "Javascript",
+      "class": "devicon-javascript-plain"
+    },
+    {
+      "skillName": "Typescript",
+      "class": "devicon-typescript-plain"
+    },
+    {
+      "skillName": "Node JS",
+      "class": "devicon-nodejs-plain-wordmark"
+    },
+    {
+      "skillName": "Angular",
+      "class": "devicon-angularjs-plain"
+    },
+    {
+      "skillName": "Bootstrap",
+      "class": "devicon-bootstrap-plain"
+    },
+    {
+      "skillName": "Jquery",
+      "class": "devicon-jquery-plain"
+    },
+    {
+      "skillName": "iOS",
+      "class": "devicon-apple-original"
+    },
+    {
+      "skillName": "Android",
+      "class": "devicon-android-plain"
+    },
+    {
+      "skillName": "Objective C",
+      "class": "devicon-objectivec-plain"
+    },
+    {
+      "skillName": "XCode",
+      "class": "devicon-xcode-plain"
+    },
+    {
+      "skillName": "Android Studio",
+      "class": "devicon-androidstudio-plain"
+    },
+    {
+      "skillName": "AWS",
+      "class": "devicon-amazonwebservices-plain-wordmark"
+    },
+    {
+      "skillName": "Babel",
+      "class": "devicon-babel-plain"
+    },
+    {
+      "skillName": "NPM",
+      "class": "devicon-npm-original-wordmark"
+    },
+    {
+      "skillName": "Python",
+      "class": "devicon-python-plain"
+    },
+    {
+      "skillName": "Java",
+      "class": "devicon-java-plain"
+    },
+    {
+      "skillName": "Hardhat",
+      "class": "devicon-hardhat-plain"
+    },
+    {
+      "skillName": "Solidity",
+      "class": "devicon-solidity-plain"
+    },
+    {
+      "skillName": "Rust",
+      "class": "devicon-rust-plain"
+    },
+    {
+      "skillName": "MySQL",
+      "class": "devicon-mysql-plain"
+    },
+    {
+      "skillName": "PostgreSQL",
+      "class": "devicon-postgresql-plain"
+    },
+    {
+      "skillName": "MongoDB",
+      "class": "devicon-mongodb-plain"
+    }
+  ]
+}

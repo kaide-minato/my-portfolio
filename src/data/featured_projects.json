@@ -1,0 +1,160 @@
+{
+  "featured_projects": [
+    {
+      "name": "Reebonz",
+      "link": "https://reebonz.com/",
+      "description": "A singaporean living in Italy with a love for fashion, Italian food, culture and history. She will be streaming in Italy & Europe, hosting all FB and IG live",
+      "colour": "linear-gradient(to top, rgb(0, 122, 65),rgb(37, 207, 108))",
+      "languages": [
+        {
+          "name": "WordPress",
+          "color": "#dd1b16"
+        },
+        {
+          "name": "PHP",
+          "color": "#61DBFB"
+        },
+        {
+          "name": "MySQL",
+          "color": "#0868AC"
+        }
+      ],
+      "type": "web"
+    },
+    {
+      "name": "Redmart",
+      "link": "https://redmart.lazada.sg/",
+      "description": "RedMart. 145539 likes · 5 talking about this. RedMart is Singapore's No.1 online grocer who is proud to call Singapore home. ",
+      "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
+      "languages": [
+        {
+          "name": "React.js",
+          "color": "#61DBFB"
+        },
+        {
+          "name": "Core-js",
+          "color": "#764abc"
+        }
+      ],
+      "type": "web"
+    },
+    {
+      "name": "ShopBack",
+      "link": "https://www.shopback.de/",
+      "description": "Save every time you shop online! Sign up for free and find deals and discounts from over 1000 partner shops.",
+      "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
+      "languages": [
+        {
+          "name": "React.js",
+          "color": "#61DBFB"
+        },
+        {
+          "name": "Next JS",
+          "color": "#764abc"
+        },
+        {
+          "name": "Node.js",
+          "color": "#764abc"
+        }
+      ],
+      "type": "web"
+    },
+    {
+      "name": "mPING",
+      "link": "https://mping.nssl.noaa.gov/",
+      "description": "mPING is a Mobile app that is suitable for any type of iPhone, Android, or tablet. Best understood by middle to high school level students. Weather satellites see a lot from above, but can’t always see what’s on the ground.",
+      "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
+      "languages": [
+        {
+          "name": "React Native",
+          "color": "#61DBFB"
+        },
+        {
+          "name": "Redux",
+          "color": "#764abc"
+        }
+      ],
+      "type": "mobile"
+    },
+    {
+      "name": "Sanctuaries",
+      "link": "https://sanctuaries.noaa.gov/",
+      "description": "Marine Sanctuaries released a virtual dive page (mobile-friendly) where students ofall agescan hang out with all different types of animals- they can take an up-close look at fish, flora, and the environment around them.",
+      "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
+      "languages": [
+        {
+          "name": "React Native",
+          "color": "#61DBFB"
+        },
+        {
+          "name": "Redux",
+          "color": "#764abc"
+        }
+      ],
+      "type": "mobile"
+    },
+    {
+      "name": "Learning Pool",
+      "link": "https://resources.learningpool.com/best-cloud-lms-learning-platform-us?utm_source=GOOGLE&utm_medium=PPC&utm_campaign=GGL-US-REMARKETING&utm_content=WEBSITE&utm_term=online%20learning&utm_term=online%20learning&utm_campaign=GGL-US-STANDARD-REMARKETING&utm_source=adwords&utm_medium=ppc&hsa_acc=7322171817&hsa_cam=21096686095&hsa_grp=162818617147&hsa_ad=693304380418&hsa_src=g&hsa_tgt=kwd-10235341&hsa_kw=online%20learning&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwsaqzBhDdARIsAK2gqnehx9QiOIQzNRhAB6QKAitZ2isniSJaJXGsOo9IwwXJfSMWEi2t-joaAlkpEALw_wcB",
+      "description": "30 Minutes Is All We Need. Optimise Employee Performance With Data‑Driven Workplace Learning Technologies. you can easily learn everything you want in this site. this is located in USA",
+      "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
+      "languages": [
+        {
+          "name": "Next JS",
+          "color": "#61DBFB"
+        },
+        {
+          "name": "Node.js",
+          "color": "#764abc"
+        },
+        {
+          "name": "MongoDB",
+          "color": "#498AFF"
+        }
+      ],
+      "type": "web"
+    },
+    {
+      "name": "Bitcoinke",
+      "link": "https://bitcoinke.io/tag/nft-marketplace/",
+      "description": "LG Electronics Wants to Introduce a TV that Trades NFTs · You Will Soon Be Able to Mint and Sell NFTs on Instagram. You Will Soon Become NFT Leader.",
+      "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
+      "languages": [
+        {
+          "name": "React Native",
+          "color": "#61DBFB"
+        },
+        {
+          "name": "Redux",
+          "color": "#764abc"
+        },
+        {
+          "name": "Hardhat",
+          "color": "#764abc"
+        },
+        {
+          "name": "Web3.js",
+          "color": "#764abc"
+        }
+      ],
+      "type": "mobile"
+    },
+    {
+      "name": "Rarible",
+      "link": "https://rarible.com/",
+      "description": "Discover, sell and buy NFTs on Rarible! Our aggregated NFT marketplace for Ethereum NFTs and Polygon NFTs powers brands, collections and creator.",
+      "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
+      "languages": [
+        {
+          "name": "Next JS",
+          "color": "#61DBFB"
+        },
+        {
+          "name": "Truffle",
+          "color": "#764abc"
+        }
+      ],
+      "type": "web"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "experience": [
+    {
+      "id": 1,
+      "link": "https://kyanon.digital/",
+      "company": "Kyanon Digital",
+      "title": "Web Developer",
+      "dateFrom": "Oct 2017",
+      "dateTo": "Oct 2020",
+      "info": [
+        "Developed responsive and user-friendly website and dynamic web applications",
+        "I worked this company as a web developer"
+      ],
+      "stack": [
+        "HTML",
+        "CSS",
+        "PHP",
+        "React.js",
+        "Angular",
+        "Nodejs",
+        "WordPress",
+        "Magento",
+        "Express",
+        "MongoDB",
+        "Nodejs"
+      ],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #a31013, #ed4043)",
+      "colourSecondary": "linear-gradient(to bottom, #a31013, #ed4043)"
+    },
+    {
+      "id": 0,
+      "link": "https://blendlocalsearchmarketing.com/",
+      "company": "Blend Local Search Marketing",
+      "title": "Mobile App Developer",
+      "dateFrom": "Mar 2021",
+      "dateTo": "Aug 2022",
+      "info": [
+        "Developed Mobile Application",
+        "Responsible for React Native and Android Development & design."
+      ],
+      "stack": [
+        "React Native",
+        "React.js",
+        "Angular",
+        "Javascript",
+        "Android",
+        "Firebase",
+        "Nodejs"
+      ],
+      "logoheight": 80,
+      "colourPrimary": "linear-gradient(to bottom, #62cd70, #cfefd1)",
+      "colourSecondary": "linear-gradient(to bottom, #62cd70, #cfefd1)"
+    },
+    {
+      "id": 3,
+      "link": "https://claystack.com/",
+      "company": "Claystack",
+      "title": "BlockChain Developer",
+      "dateFrom": "Nov 2022",
+      "dateTo": "Apr 2024",
+      "info": [
+        "Developed NFT market place with smart contracts and token development.",
+        "Collaborated with cross-functional teams."
+      ],
+      "stack": [
+        "Next.js",
+        "React.js",
+        "Angular.js",
+        "Vue.js",
+        "Solidity",
+        "Rust",
+        "Python",
+        "Java",
+        "Hardhat",
+        "Truffle",
+        "ether.js",
+        "Web3.js"
+      ],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #CA0000, #ed4043)",
+      "colourSecondary": "linear-gradient(to bottom, #CA0000, #ed4043)"
+    }
+  ]
+}
